@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\AlgorithmQuestion\bin\Debug\net8.0\AlgorithmQuestion.exe
+C:\Users\USER\Desktop\AlgorithmQuestion\bin\Debug\net8.0\AlgorithmQuestion.deps.json
+C:\Users\USER\Desktop\AlgorithmQuestion\bin\Debug\net8.0\AlgorithmQuestion.runtimeconfig.json
+C:\Users\USER\Desktop\AlgorithmQuestion\bin\Debug\net8.0\AlgorithmQuestion.dll
+C:\Users\USER\Desktop\AlgorithmQuestion\bin\Debug\net8.0\AlgorithmQuestion.pdb
+C:\Users\USER\Desktop\AlgorithmQuestion\obj\Debug\net8.0\AlgorithmQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AlgorithmQuestion\obj\Debug\net8.0\AlgorithmQuestion.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AlgorithmQuestion\obj\Debug\net8.0\AlgorithmQuestion.AssemblyInfo.cs
+C:\Users\USER\Desktop\AlgorithmQuestion\obj\Debug\net8.0\AlgorithmQuestion.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AlgorithmQuestion\obj\Debug\net8.0\AlgorithmQuestion.dll
+C:\Users\USER\Desktop\AlgorithmQuestion\obj\Debug\net8.0\refint\AlgorithmQuestion.dll
+C:\Users\USER\Desktop\AlgorithmQuestion\obj\Debug\net8.0\AlgorithmQuestion.pdb
+C:\Users\USER\Desktop\AlgorithmQuestion\obj\Debug\net8.0\AlgorithmQuestion.genruntimeconfig.cache
+C:\Users\USER\Desktop\AlgorithmQuestion\obj\Debug\net8.0\ref\AlgorithmQuestion.dll
